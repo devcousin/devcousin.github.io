@@ -1,0 +1,12 @@
+.body {
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+}
+
+.h1 {
+    color: white;
+}
